@@ -1,0 +1,7 @@
+.div-list
+{
+    display: flex;
+    justify-content: space-evenly;
+    height: 100%;
+}
+
